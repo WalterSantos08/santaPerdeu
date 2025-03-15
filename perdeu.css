@@ -99,6 +99,7 @@ h2 {
 button {
     height: 40px;
     background-color: rgb(162, 2, 2);
+    border-radius: 50px;
     margin-top: 20px;
     font-size: clamp(14px, 2vw, 18px);
     font-weight: 800;
